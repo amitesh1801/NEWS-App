@@ -1,2 +1,3 @@
 app/* linguist-documentation=false
+.dart linguist-detectable=true
 app/* linguist-vendored
